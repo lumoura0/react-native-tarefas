@@ -7,7 +7,7 @@
   <img alt="registro" src=".github/reg.png" width="250px">
   <img alt="tarefas" src=".github/tar.png" width="250px">
 </p>
-## Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -17,14 +17,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - React Native
 - firebase
 
-## Funcionalidades do aplicativo
+## 💻 Funcionalidades do aplicativo
 
 O aplicativo permite as seguintes funcionalidades:
 
 - Adicionar uma nova tarefa;
 - Editar uma tarefa existente;
 - Excluir uma tarefa;
-
-## Contribua!
-
-Sinta-se à vontade para contribuir com sugestões e correções de bugs. Basta fazer um fork do projeto e enviar um pull request com as suas alterações.
